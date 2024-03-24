@@ -1,0 +1,1 @@
+DROP TABLE "test__auth_tokens";

@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711184496265,
+      "tag": "0000_even_nick_fury",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711197983476,
+      "tag": "0001_aspiring_mattie_franklin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711261678693,
+      "tag": "0002_friendly_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1711271265150,
+      "tag": "0003_volatile_mastermind",
+      "breakpoints": true
+    }
+  ]
+}
